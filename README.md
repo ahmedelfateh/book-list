@@ -1,7 +1,9 @@
-<p align="center" style="font-size:500%;">📚📚📚📚📚📚📚📚📚📚</p>
+<a><img class="center" src="https://i.imgur.com/6uX2fbr.jpg"></a>
 
 <p align="center">
-<a href="https://github.com/ahmedelfateh/book-list/blob/master/LICENSE"><img alt="License: unlicense" src="https://img.shields.io/badge/License-Unlicense-brightgreen"></a>
+<a href="https://github.com/ahmedelfateh/book-list/blob/master/LICENSE">
+<img alt="License: unlicense" src="https://img.shields.io/badge/License-Unlicense-brightgreen">
+</a>
 </p>
 
 # My Book List (I Read, Listen about Tec, Business, etc...) 
@@ -51,16 +53,16 @@
 - 📖 [Fluent Python by Luciano Ramalho](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming-ebook/dp/B0131L3PW4)
 
 #### Business
-- 📖 [Value Proposition Design by Alexander Osterwalder, Yves Pigneur, Gregory Bernarda & Alan Smith](http://amazon.com/Value-Proposition-Design-Customers-Strategyzer-ebook/dp/B06X429CJH/)
+- 📖 [Value Proposition Design by Alexander Osterwalder, Yves Pigneur, Gregory Bernarda & Alan Smith](http://amazon.com/Value-Proposition-Design-Customers-Strategyzer-ebook/dp/B06X429CJH/) ⏩
 
 -----
 
-## Hope to
+## Waiting
 
 #### Tec.
 - 📖 [Python Testing with pytest by Brian Okken](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409)
 - 📖 [Code Complete by Steve McConnell](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
-- [Refactoring by Martin Fowler & Kent Beck](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
+- 📖 [Refactoring by Martin Fowler & Kent Beck](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
 - 📖 [Introduction to Machine Learning with Python by Andreas C. Müller & Sarah Guido](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413)
 
 #### Business
@@ -70,3 +72,6 @@
 #### Math
 - 📖 [Linear Algebra Done Right by Sheldon Axler](http://amazon.com/Linear-Algebra-Right-Undergraduate-Mathematics-ebook/dp/B00PULZWPC/)
 - 📖 [Introduction to Probability by Charles Grinstead & J.Laurie Snell](https://www.amazon.com/Introduction-Probability-Charles-M-Grinstead/dp/0821807498)
+
+### Other
+- 🎧 [The Culture Map by Erin Meyer](https://www.audible.com/pd/The-Culture-Map-Audiobook/1549184032)
