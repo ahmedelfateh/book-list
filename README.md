@@ -54,6 +54,7 @@
 
 #### Business
 - 📖 [Value Proposition Design by Alexander Osterwalder, Yves Pigneur, Gregory Bernarda & Alan Smith](http://amazon.com/Value-Proposition-Design-Customers-Strategyzer-ebook/dp/B06X429CJH/) ⏩
+- 📖 [Software Development From A to Z by Olga FilipovaRui Vilão](https://link.springer.com/book/10.1007/978-1-4842-3945-2?sfns=mo) ⏩
 
 -----
 
@@ -64,10 +65,17 @@
 - 📖 [Code Complete by Steve McConnell](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
 - 📖 [Refactoring by Martin Fowler & Kent Beck](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
 - 📖 [Introduction to Machine Learning with Python by Andreas C. Müller & Sarah Guido](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413)
+- 📖 [Python Algorithms by Magnus Lie Hetland](https://link.springer.com/book/10.1007%2F978-1-4302-3238-4)
+
+- 📖 [Neuro Web Design: What Makes Them Click? by Susan M. Weinschenk](https://www.amazon.com/Neuro-Web-Design-Voices-ebook/dp/B00295H05W)
+- 📖 [Emotional Design: Why We Love (or Hate) Everyday Things by Don Norman](https://www.amazon.com/Emotional-Design-Love-Everyday-Things/dp/0465051367)
+- 📖 [Prototyping: A Practitioner's Guide by Todd Zaki Warfel](https://www.amazon.com/Prototyping-Practitioners-Todd-Zaki-Warfel-ebook/dp/B004VFUOMY)
+
 
 #### Business
 - 🎧 [Measure What Matters by John Doerr & Larry Page](https://www.audible.com/pd/Measure-What-Matters-Audiobook/B07BMHFBCM)
 - 🎧 [Zero to One by Peter Thiel & Blake Masters](https://www.audible.in/pd/Zero-to-One-Audiobook/B079ZXSR8H)
+- 🎧 [Sprint by Jake Knapp, John Zeratsky & Braden Kowitz](https://www.audible.com/pd/Sprint-Audiobook/B019R2DSDM)
 
 #### Math
 - 📖 [Linear Algebra Done Right by Sheldon Axler](http://amazon.com/Linear-Algebra-Right-Undergraduate-Mathematics-ebook/dp/B00PULZWPC/)
@@ -75,3 +83,6 @@
 
 ### Other
 - 🎧 [The Culture Map by Erin Meyer](https://www.audible.com/pd/The-Culture-Map-Audiobook/1549184032)
+- 🎧 [Dataclysm by Christian Rudder](https://www.audible.ca/pd/Dataclysm-Audiobook/B072BGZNN9)
+- 📖 [Range: Why Generalists Triumph in a Specialized World by  David Epstein](https://www.amazon.co.uk/Range-Generalists-Triumph-Specialized-World/dp/0735214484)
+- 🎧 [Ikigai: The Japanese Secret to a Long and Happy Life by Héctor García, Francesc Miralles](https://www.audible.com/pd/Ikigai-Audiobook/B074WFYZYH)
