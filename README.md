@@ -36,6 +36,7 @@
 - 🎧 [The Third Wave: An Entrepreneur's Vision of the Future by Steve Case](https://www.audible.com/pd/The-Third-Wave-Audiobook/B01CIRT3V4) ✅
 - 🎧 [The Lean Startup by Eric Ries](https://www.audible.com/pd/The-Lean-Startup-Audiobook/B005LXV0HI) ✅
 - 🎧 [The Mom Test by Rob Fitzpatrick](https://www.audible.com/pd/The-Mom-Test-Audiobook/B07RHWCHD8) ✅
+- 📖 [Value Proposition Design by Alexander Osterwalder, Yves Pigneur, Gregory Bernarda & Alan Smith](http://amazon.com/Value-Proposition-Design-Customers-Strategyzer-ebook/dp/B06X429CJH/) ✅
 
 -----
 
@@ -44,7 +45,7 @@
 #### Tec.
 
 - 📖 [Cloud Native Java by von Josh Long & Kenny Bastani](https://www.amazon.com/Cloud-Native-Java-Designing-Resilient/dp/1449374646) ⏩
-- 🎧 [The Pragmatic Programmer by David Thomas & Andrew Hunt](https://www.audible.com.au/pd/The-Pragmatic-Programmer-20th-Anniversary-Edition-2nd-Edition-Audiobook/B0833DTM83)
+- 🎧 [The Pragmatic Programmer by David Thomas & Andrew Hunt](https://www.audible.com.au/pd/The-Pragmatic-Programmer-20th-Anniversary-Edition-2nd-Edition-Audiobook/B0833DTM83) ⏩
 - 📖 [Learn Python the Hard Way by Zed A. Shaw](amazon.com/Learn-Python-Hard-Way-Introduction-ebook-dp-B00FGUS948/dp/B00FGUS948)
 - 📖 [Cracking the Coding Interview, Gayle Laakmann](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - 📖 [Grokking Algorithms, Adity Y.Bhargava](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
@@ -53,7 +54,6 @@
 - 📖 [Fluent Python by Luciano Ramalho](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming-ebook/dp/B0131L3PW4)
 
 #### Business
-- 📖 [Value Proposition Design by Alexander Osterwalder, Yves Pigneur, Gregory Bernarda & Alan Smith](http://amazon.com/Value-Proposition-Design-Customers-Strategyzer-ebook/dp/B06X429CJH/) ⏩
 - 📖 [Software Development From A to Z by Olga FilipovaRui Vilão](https://link.springer.com/book/10.1007/978-1-4842-3945-2?sfns=mo) ⏩
 
 -----
